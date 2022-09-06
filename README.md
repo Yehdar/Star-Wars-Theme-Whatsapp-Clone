@@ -9,8 +9,11 @@ It is an understatement when I say I was definitely punching above my weight cla
 - MongoDB as database
 - Used Pusher as the host real-time API service
 
-##SHOUT-OUTS
-I WOULD LOVE TO ACKNOWLEDGE THIS VIDEO: https://youtu.be/gzdQDxzW2Tw FOR INSPIRING ME TO TAKE ON SUCH A CHALLENGE AND BEING MY GUIDE. FURTHERMORE, I WOULD TO THANK:
+## SHOUT-OUTS
+I WOULD LOVE TO ACKNOWLEDGE THIS VIDEO: 
+https://youtu.be/gzdQDxzW2Tw FOR INSPIRING ME TO TAKE ON SUCH A CHALLENGE AND BEING MY GUIDE. 
+
+FURTHERMORE, I WOULD TO THANK ALL THESE STACK OVERFLOW FORUMS FOR HELPING MEEEE:
 https://stackoverflow.com/questions/67432028/trying-to-install-next-js-on-vs-code-but-show-error-by-saying-npm-not-recognized
 https://stackoverflow.com/questions/33661274/what-are-the-differences-between-long-term-support-lts-and-stable-versions-of
 https://stackoverflow.com/questions/58901066/how-to-quickly-create-div-classes-in-vscode
