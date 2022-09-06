@@ -4,6 +4,7 @@ It is an understatement when I say I was definitely punching above my weight cla
 ## Details
 - MERN (MongoDB, Express, React, NodeJS) Full Stack build
 - Firebase as host
+- React for designing whatsapp UI
 - Used MUI for the icons
 - Postman and Express for creating API
 - MongoDB as database
