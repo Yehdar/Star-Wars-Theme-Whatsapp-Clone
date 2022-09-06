@@ -1,3 +1,37 @@
+# THE TOUGHEST PROJECT YET
+It is an understatement when I say I was definitely punching above my weight class for this project. This was the first time I went deep into backend development and it was certainly an uphill battle. On countless occassions, I suffered a lot. Thankfully, in the end I pulled through and developed it. That said, there are bugs here and then which I will fix on a later date.
+
+## Details
+- MERN (MongoDB, Express, React, NodeJS) Full Stack build
+- Firebase as backend service
+- Used MUI for the icons
+- Postman and Express for creating API
+- MongoDB as database
+- Used Pusher as the host real-time API service
+
+##SHOUT-OUTS
+I WOULD LOVE TO ACKNOWLEDGE THIS VIDEO: https://youtu.be/gzdQDxzW2Tw FOR INSPIRING ME TO TAKE ON SUCH A CHALLENGE AND BEING MY GUIDE. FURTHERMORE, I WOULD TO THANK:
+https://stackoverflow.com/questions/67432028/trying-to-install-next-js-on-vs-code-but-show-error-by-saying-npm-not-recognized
+https://stackoverflow.com/questions/33661274/what-are-the-differences-between-long-term-support-lts-and-stable-versions-of
+https://stackoverflow.com/questions/58901066/how-to-quickly-create-div-classes-in-vscode
+https://stackoverflow.com/questions/63423584/how-to-fix-error-nodemon-ps1-cannot-be-loaded-because-running-scripts-is-disabl
+https://stackoverflow.com/questions/67145332/could-not-send-request-error-in-postman-web-version
+https://stackoverflow.com/questions/37486631/nodemon-app-crashed-waiting-for-file-changes-before-starting
+https://stackoverflow.com/questions/64029248/postman-connect-econnrefused-127-0-0-18080
+https://stackoverflow.com/questions/18864677/what-is-process-env-port-in-node-js
+https://stackoverflow.com/questions/1946193/whats-the-whole-point-of-localhost-hosts-and-ports-at-all
+https://stackoverflow.com/questions/4840879/nodejs-how-to-get-the-servers-port
+https://stackoverflow.com/questions/57220850/how-to-make-port-work-in-express-server
+https://stackoverflow.com/questions/4075287/node-express-eaddrinuse-address-already-in-use-kill-server
+https://stackoverflow.com/questions/62658941/error-write-eproto-34557064error100000f7ssl-routinesopenssl-internalwrong
+https://stackoverflow.com/questions/69195824/trying-to-connect-mongodb-to-my-web-app-but-it-shows-following-error
+https://stackoverflow.com/questions/68958221/mongoparseerror-options-usecreateindex-usefindandmodify-are-not-supported/68962378#68962378
+https://stackoverflow.com/questions/65866769/the-meaning-of-retrywrites-truew-majority-when-you-connect-node-js-app-to-clus
+https://stackoverflow.com/questions/63224330/where-do-i-find-my-dbname-for-mongodb-connection-string
+https://stackoverflow.com/questions/56661844/error-in-postman-500-internal-server-error-api
+https://stackoverflow.com/questions/35199384/node-js-error-connect-econnrefused-response-from-server
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
