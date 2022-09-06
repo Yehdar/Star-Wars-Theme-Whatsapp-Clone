@@ -7,6 +7,7 @@ It is an understatement when I say I was definitely punching above my weight cla
 - Used MUI for the icons
 - Postman and Express for creating API
 - MongoDB as database
+- NodeJS for server-side scripting
 - Used Pusher as the host real-time API service
 
 ## SHOUT-OUTS
