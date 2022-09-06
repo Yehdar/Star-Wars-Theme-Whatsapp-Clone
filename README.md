@@ -11,7 +11,7 @@ It is an understatement when I say I was definitely punching above my weight cla
 
 ## SHOUT-OUTS
 I WOULD LOVE TO ACKNOWLEDGE THIS VIDEO: 
-https://youtu.be/gzdQDxzW2Tw FOR INSPIRING ME TO TAKE ON SUCH A CHALLENGE AND BEING MY GUIDE. 
+https://youtu.be/gzdQDxzW2Tw FOR INSPIRING ME TO TAKE ON SUCH A CHALLENGE AND FOR BEING MY GUIDE. 
 
 FURTHERMORE, I WOULD TO THANK ALL THESE STACK OVERFLOW FORUMS FOR HELPING MEEEE:
 https://stackoverflow.com/questions/67432028/trying-to-install-next-js-on-vs-code-but-show-error-by-saying-npm-not-recognized
