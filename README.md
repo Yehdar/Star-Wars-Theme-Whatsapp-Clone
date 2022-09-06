@@ -1,10 +1,10 @@
 # MY MOST AMBITIOUS PROJECT YET
-It is an understatement when I say I was definitely punching above my weight class for this project. This was the first time I went deep into backend development and it was certainly an uphill battle. On countless occassions, I suffered a lot. Thankfully, in the end I pulled through and developed it. That said, there are bugs here and there which I will fix on a later date (DAMN YOU POSTMAN 500 INTERNAL SERVER ERROR)!
+It is an understatement when I say I was definitely punching above my weight class for this project. This was the first time I dived extremely deep into backend development and it was certainly an uphill battle. On countless occassions, I suffered a lot. Thankfully, in the end I pulled through and developed it. That said, there are bugs here and there which I will fix on a later date (DAMN YOU POSTMAN 500 INTERNAL SERVER ERROR)!
 
 ## Details
 - MERN (MongoDB, Express, React, NodeJS) Full Stack build
 - Firebase as host
-- React for designing whatsapp UI
+- React for designing whatsapp clone UI
 - Used MUI for the icons
 - Postman and Express for creating API
 - MongoDB as database
