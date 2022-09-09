@@ -16,7 +16,7 @@ It is an understatement when I say I was definitely punching above my weight cla
 - I have not set up any system to let users from different accounts chat with each other
 - Postman's 500 Internal server error is very common and I still have not learned how to overcome it
 - Poor graphical user interface (users cannot change pictures, groupchat names, create groupchats, etc)
-- Quite literally, this build can only send and store messages, and then, get those stored messages back to be displayed on the user's interface lol
+- Quite literally, this build can only send and store messages, and then, get those stored messages back to be displayed on the user's interface
 
 ## SHOUT-OUTS
 I WOULD LOVE TO ACKNOWLEDGE THIS VIDEO: 
