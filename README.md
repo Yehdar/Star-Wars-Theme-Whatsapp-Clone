@@ -12,8 +12,8 @@ It is an understatement when I say I was definitely punching above my weight cla
 - Used Pusher as the host real-time API service
 
 ## DRAWBACKS
-- Cannot be done between users as I have not set up any system to let users from different accounts chat with each other
-- Postman's 500 Internal server error is very common
+- I have not set up any system to let users from different accounts chat with each other
+- Postman's 500 Internal server error is very common and I still have not learned how to overcome it
 - Poor graphical user interface (users cannot change pictures, groupchat names, create groupchats, etc)
 - Quite literally, this build can only send messages lol
 
