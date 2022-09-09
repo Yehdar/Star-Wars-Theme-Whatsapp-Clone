@@ -15,6 +15,12 @@ It is an understatement when I say I was definitely punching above my weight cla
 I WOULD LOVE TO ACKNOWLEDGE THIS VIDEO: 
 https://youtu.be/gzdQDxzW2Tw FOR INSPIRING ME TO TAKE ON SUCH A CHALLENGE AND FOR BEING MY GUIDE. 
 
+## DRAWBACKS
+- Cannot be done between users as I have not set up any system to let users from different accounts chat with each other
+- Postman's 500 Internal server error is very common
+- Poor graphical user interface (users cannot change pictures, groupchat names, create groupchats, etc)
+- Quite literally, this build can only send messages lol
+
 FURTHERMORE, I WOULD TO THANK ALL THESE STACK OVERFLOW FORUMS FOR HELPING MEEEE:
 https://stackoverflow.com/questions/67432028/trying-to-install-next-js-on-vs-code-but-show-error-by-saying-npm-not-recognized
 https://stackoverflow.com/questions/33661274/what-are-the-differences-between-long-term-support-lts-and-stable-versions-of
