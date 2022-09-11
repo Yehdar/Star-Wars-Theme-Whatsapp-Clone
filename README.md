@@ -19,7 +19,7 @@ It is an understatement when I say I was definitely punching above my weight cla
 - Quite literally, this build can only send and store messages, and then, get those stored messages back to be displayed on the user's interface
 
 ## TAKEAWAYS
-- Get better a fullstack by learning more about MERN and executing more projects (maybe take on smaller, bit-sized projects instead?)
+- Get better a fullstack by learning more about MERN and executing more projects (maybe take on smaller, bite-sized projects instead?)
 
 ## SHOUT-OUTS
 I WOULD LOVE TO ACKNOWLEDGE THIS VIDEO: 
