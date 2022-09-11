@@ -18,6 +18,9 @@ It is an understatement when I say I was definitely punching above my weight cla
 - Poor graphical user interface (users cannot change pictures, groupchat names, create groupchats, etc)
 - Quite literally, this build can only send and store messages, and then, get those stored messages back to be displayed on the user's interface
 
+## TAKEAWAYS
+- Get better a fullstack by learning more about MERN and executing more projects (maybe take on smaller, bit-sized projects instead?)
+
 ## SHOUT-OUTS
 I WOULD LOVE TO ACKNOWLEDGE THIS VIDEO: 
 https://youtu.be/gzdQDxzW2Tw FOR INSPIRING ME TO TAKE ON SUCH A CHALLENGE AND FOR BEING MY GUIDE. 
