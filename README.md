@@ -6,7 +6,7 @@ It is an understatement when I say I was definitely punching above my weight cla
 - Firebase as host
 - React for designing whatsapp clone UI
 - Used MUI for the icons
-- Postman to create the API
+- Postman to test APIs
 - ExpressJS for the web framework
 - MongoDB as database
 - NodeJS for server-side scripting
